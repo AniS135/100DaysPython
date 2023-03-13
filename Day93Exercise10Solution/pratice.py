@@ -2,7 +2,7 @@ import requests as req
 import json
 
 
-Api_key = "32dc6f832e6e44dfac73d7efd50bc63e"
+Api_key = ""
 
 while True:
     keyword = input("Input category of news you want to search ('exit' if don't want to search further) :")
